@@ -1,0 +1,19 @@
+{
+  "name": "ocr-scraper",
+  "version": "1.0.0",
+  "description": "Designed to recognize text being scraped from PDF documents.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenMaine/ocr-scraper.git"
+  },
+  "author": "Matthew Rideout @mdrideout",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OpenMaine/ocr-scraper/issues"
+  },
+  "homepage": "https://github.com/OpenMaine/ocr-scraper#readme"
+}
